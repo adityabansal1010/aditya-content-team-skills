@@ -6,14 +6,14 @@ description: >-
   and rhythm patterns) with supplemental cliches and model fingerprints, then adds
   a two-layer model: AI fingerprints and credibility-killers are a hard floor
   removed from every post, while everything above the floor is calibrated to the
-  client's real voice. Use whenever anyone on the team writes, drafts, edits, cleans up, or
-  reviews any LinkedIn or X post, newsletter, or content deliverable for himself or
-  a client; when he says "remove AI-isms", "make this sound human", "clean up this
-  draft", "does this sound like AI", "audit this post", or "run the voice guard";
-  and as the final pass on content from his other content skills. Pair with the
-  matching voice skill (aditya-voice for Aditya, vivek-upavise for Vivek,
-  raag-voice for Raag, lgos-client-content for other clients, signal-outreach-craft for outreach): the
-  voice skill sets the target, this skill enforces the floor and audits the result.
+  client's real voice. Use whenever anyone on the team writes, drafts, edits, or
+  reviews a LinkedIn or X post, newsletter, or content deliverable; when someone
+  says "remove AI-isms", "make this sound human", "clean up this draft", "does
+  this sound like AI", "audit this post", or "run the voice guard"; and as the
+  final pass on content from the other content skills. Pair with the matching
+  voice skill (aditya-voice, vivek-upavise, raag-voice, lgos-client-content, or
+  signal-outreach-craft): the voice skill sets the target, this skill enforces the
+  floor and audits the result.
 license: MIT
 metadata:
   version: 1.1.0
