@@ -1,0 +1,29 @@
+{
+  "name": "team-aditya",
+  "owner": {
+    "name": "Aditya Bansal"
+  },
+  "description": "Content, editorial and outreach skills for Aditya Bansal's content team.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "team-aditya",
+      "source": "./plugins/team-aditya",
+      "description": "The house content system: voice standards, editorial judgment, LinkedIn writing frameworks, client voice profiles and outreach playbooks.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aditya Bansal"
+      },
+      "license": "UNLICENSED",
+      "keywords": [
+        "ghostwriting",
+        "linkedin",
+        "editorial",
+        "content",
+        "voice"
+      ],
+      "category": "productivity",
+      "displayName": "Team Aditya"
+    }
+  ]
+}
