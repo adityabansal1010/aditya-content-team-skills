@@ -10,7 +10,7 @@ The repo is private, so the Claude account doing the installing must be able to 
 
 1. **Give the account's GitHub user access** — on GitHub: repo → Settings → Collaborators → add the GitHub account that team member signs into Claude with.
 2. **Install the Claude GitHub App on this repo** — private marketplaces sync through the app, not through a raw clone. Personal access is verified against that user's GitHub token; the sync itself runs on the app installation token.
-3. In the Claude app (web or desktop), open **Customize → Plugins → Personal plugins → `+` → Add marketplace → Add from a repository**, and enter `<owner>/aditya-content-team-skills`. A git URL or `git@github.com:<owner>/aditya-content-team-skills.git` also works.
+3. In the Claude app (web or desktop), open **Customize → Plugins → Personal plugins → `+` → Add marketplace → Add from a repository**, and enter `adityabansal1010/aditya-content-team-skills`. A git URL or `git@github.com:adityabansal1010/aditya-content-team-skills.git` also works.
 4. Install the **`team-aditya`** plugin from the marketplace that appears, and enable it.
 
 The skills then show up in the skill list — `/` or the `+` button in a chat — and load automatically when a request matches their description.
@@ -18,7 +18,7 @@ The skills then show up in the skill list — `/` or the `+` button in a chat �
 In Claude Code:
 
 ```bash
-/plugin marketplace add <owner>/aditya-content-team-skills
+/plugin marketplace add adityabansal1010/aditya-content-team-skills
 /plugin install team-aditya@team-aditya
 ```
 
